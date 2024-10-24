@@ -5,7 +5,6 @@
 
 🌟 _Most *starred* & *forked* Astro theme in 2022_. 🌟
 
-**AstroWind** is a free and open-source template to make your website using **[Astro 3.0](https://astro.build/) + [Tailwind CSS](https://tailwindcss.com/)**. Ready to start a new project and designed taking into account web best practices.
 
 - ✅ **Production-ready** scores in **PageSpeed Insights** reports.
 - ✅ Integration with **Tailwind CSS** supporting **Dark mode** and **_RTL_**.
@@ -17,7 +16,7 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/onwidget/.github/main/resources/astrowind/screenshot-astro3.png" alt="AstroWind Theme Screenshot">
+
 
 [![onWidget](https://custom-icon-badges.demolab.com/badge/made%20by%20-onWidget-556bf2?style=flat-square&logo=onwidget&logoColor=white&labelColor=101827)](https://onwidget.com)
 [![License](https://img.shields.io/github/license/onwidget/astrowind?style=flat-square&color=dddddd&labelColor=000000)](https://github.com/onwidget/astrowind/blob/main/LICENSE.md)
